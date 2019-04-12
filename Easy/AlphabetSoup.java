@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class AlphabetSoup {
   public static String AlphabetSoup(String str) {
 
     char[] strArray = str.toCharArray();
